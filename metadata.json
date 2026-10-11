@@ -1,0 +1,6 @@
+{
+  "name": "FestaRSVP - Confirmação de Presença",
+  "description": "Sistema de controle de convidados e confirmação de presença (RSVP) por família com painel administrativo completo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
